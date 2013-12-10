@@ -2,9 +2,9 @@
 // configuration
 // configuration
 $dbhost = "localhost";
-$dbname = "live_traffic";
-$dbuser = "root";
-$dbpass = "mapapa1531";
+$dbname = "live_traffic";//Your password
+$dbuser = "root";//User
+$dbpass = "Test1234";//Your password
 
 ?>
 
