@@ -19,7 +19,7 @@ window.onload = function() {
         		
         		var map = new tomtom.Map({
         			domNode: "map",
-                                apiKey: "zpzfq87gxbab9z6jfwbdze6d",
+                                apiKey: "Your Tom-Tom API HERE",
 
                                 displayTraffic: true,
         			cookie: false,
