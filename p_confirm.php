@@ -67,8 +67,8 @@ function SendUserWelcomeEmail( $email, $fullname) {
     $mailer->SMTPAuth = true;                  // enable SMTP authentication
     $mailer->Host = "mail.gmims.co.za"; // sets the SMTP server
     $mailer->Port = 25;                    // set the SMTP port for the GMAIL server
-    $mailer->Username = "admin@gmims.co.za"; // SMTP account username
-    $mailer->Password = "minda2011";        // SMTP account password
+    $mailer->Username = "***********"; // SMTP account username
+    $mailer->Password = "********";        // SMTP account password
 
 
     $mailer->AddAddress($email, $fullname);
